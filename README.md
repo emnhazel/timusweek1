@@ -121,4 +121,11 @@ at() – access array elements using both positive and negative indexes.
 Multidimensional Array – learn how to work with multidimensional arrays in JavaScript.
 
 
+5)Do/Do While Difference
 
+The difference between "do" and "do-while" loops represents how they control the repetition of a code block in a program. The "do" loop executes the code block at least once before checking the condition, while the "do-while" loop checks the condition after executing the code, ensuring that the code block is executed at least once. This distinction impacts their usage based on functional requirements and program needs.
+
+
+6)For/For-Each Differnce
+
+The fundamental difference between "for" and "for-each" loops lies in their methods for processing elements. The "for" loop is index-based and is used for iterating over a specific range or a specified number of times. The "for-each" loop, on the other hand, is used for directly processing elements and doesn't require index usage. Therefore, the "for" loop is preferred for operations that require index-based processing, while the "for-each" loop is more convenient for traversing and processing elements directly, especially in arrays and collections.
